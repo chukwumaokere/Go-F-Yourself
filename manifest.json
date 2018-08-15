@@ -1,0 +1,17 @@
+{
+"manifest_version": 2,
+    "name": "Go F Yourself",
+    "description": "A Crowdfunded GChrome Extension just to get your anger out",
+    "version": "1.0",
+    "content_scripts": [
+        {
+            "matches": [
+                "*://*/*"
+            ],
+            "js": [
+                "content.js"
+            ],
+            "run_at": "document_end"
+        }
+    ]
+}
