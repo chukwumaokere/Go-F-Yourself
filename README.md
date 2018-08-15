@@ -1,6 +1,8 @@
 # By request of Reddit, here it is
 
-## The source code, so hopefully people can also learn how to make extensions from this!
+## The source code, so hopefully people can also learn how to make extensions from this!   
+   
+[CLICK HERE TO SKIP TO THE INSTRUCTIONS](https://github.com/chukwumaokere/Go-F-Yourself#install-instructions)   
 
 ### Now you can replace posts like this:
 ![alt text](https://i.imgur.com/042JR8B.png) 
