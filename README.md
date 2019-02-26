@@ -28,3 +28,4 @@ Drag and drop the "crx" extension file onto the Extensions page from [step 1]
 ( .crx file should likely be in your Downloads directory )   
    
 Install and PASSIVE AGGRESSIVELY TEAR DOWN THE OLIGARCHY!   
+
